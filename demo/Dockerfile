@@ -1,4 +1,4 @@
-FROM docker.io/panzhongxian/wecom-bot-svr
+FROM docker.io/fisherxiang/wecom-bot-svr
 
 RUN python3 -m pip install wecom-bot-svr==0.2.3
 
